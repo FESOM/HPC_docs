@@ -9,10 +9,13 @@ Link for detailed info: https://apps.fz-juelich.de/jsc/hps/juwels/access.html#ss
 
 ### Current projects
 
-The current project on Juwels (Climate projections with high-resolution Arctic Ocean, (c)hhb19) consist of two sub-projects:
+The current project on Juwels:
+* Climate projections with high-resolution Arctic Ocean (**chhb19** and **hhb19**). Consist of two sub-projects:
+   - FESOM2 hindcast and projection simulations (i.e., EPICA 1/4.5km Arctic simulations) 
+   - AWI-CM 3.1 climate setup/testing
 
-- FESOM2 hindcast and projection simulations (i.e., EPICA 1/4.5km Arctic simulations)
-- AWI-CM 3.1 climate setup/testing
+* ESM Testprojekt (**esmtst**) - for testing of our codes.
+* 2021240014 - nextGEMS’ Twin JUWELS (**pra127**) - for JUWELS BOOSTER.
   
 ### Python environment with pyfesom2
 
